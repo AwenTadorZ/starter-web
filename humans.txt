@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Timko Zsolt zsolt.timko21@gmail @Awen
 
 # THANKS
 

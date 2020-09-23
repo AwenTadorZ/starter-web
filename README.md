@@ -31,3 +31,4 @@ review.
 ## Copoyright
 
 2014 Git.Training.
+All rights reserved.
